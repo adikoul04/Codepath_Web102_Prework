@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='WEB102_GIF.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [LICEcap](https://www.cockos.com/licecap/)) for macOS
+GIF created with [LICEcap](https://www.cockos.com/licecap/)
 
 ## Notes
 
